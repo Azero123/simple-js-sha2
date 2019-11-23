@@ -1,6 +1,6 @@
 {
   "name": "simple-js-sha2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "simple js sha2 implementation (includes 224bit, 256bit, 384bit, 512bit)",
   "main": "src/main.js",
   "scripts": {

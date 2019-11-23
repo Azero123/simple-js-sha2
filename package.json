@@ -1,0 +1,34 @@
+{
+  "name": "simple-js-sha2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azero123/simple-js-sha2.git"
+  },
+  "keywords": [
+    "sha",
+    "sha2",
+    "sha2-256",
+    "sha2-512",
+    "sha2-224",
+    "sha2-384",
+    "hash"
+  ],
+  "author": "Azero123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azero123/simple-js-sha2/issues"
+  },
+  "homepage": "https://github.com/Azero123/simple-js-sha2#readme",
+  "dependencies": {
+    "simple-js-sha2-224": "^1.0.1",
+    "simple-js-sha2-256": "^1.0.5",
+    "simple-js-sha2-384": "^1.0.0",
+    "simple-js-sha2-512": "^1.0.0"
+  }
+}
